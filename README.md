@@ -41,7 +41,3 @@ All dependencies can be installed directly from the notebook if using Google Col
 
 - Nahuel Moreno Yalet
 - Juliana Macias
-
----
-
-This project was developed for **Lesson 11 of the Data Science UADE's Diploma Program**.
